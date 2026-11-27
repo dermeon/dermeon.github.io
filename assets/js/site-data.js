@@ -12,18 +12,18 @@ window.DERMEON = {
   phone: "+91 90749 03650",
   phoneLink: "+919074903650",
   whatsapp: "919074903650",
-  email: "",                      // TODO: clinic email, e.g. "care@dermeon.in"
+  email: "info@dermeon.in",
   instagram: "https://www.instagram.com/dermeon_clinic/",
   facebook: "",                   // TODO: Facebook page link
-  googleProfile: "https://www.google.com/maps/search/?api=1&query=Dermeon+Clinic+Asramam+Kollam", // TODO: replace with the exact Google Business Profile link
-  mapEmbed: "https://www.google.com/maps?q=Dermeon+Clinic+Asramam+Kollam&output=embed",
+  googleProfile: "https://maps.google.com/?cid=14195985572850679739",
+  mapEmbed: "https://maps.google.com/maps?q=Dermeon+Clinic+(A+unit+of+Chaithram+Healthcare),+Asramam,+Kollam&ll=8.8930449,76.5919402&z=17&output=embed",
 
-  /* ---------- Opening hours (TODO: confirm before publishing) ---------- */
+  /* ---------- Opening hours ---------- */
   hours: [
-    // ["Monday – Saturday", "9:30 AM – 7:30 PM"],
-    // ["Sunday", "By appointment"],
+    ["Clinic", "9:30 AM – 7:00 PM"],
+    ["Doctor consultation", "10:00 AM – 7:00 PM"]
   ],
-  hoursNote: "Please call or WhatsApp us to confirm today's consultation timings.",
+  hoursNote: "Please call or WhatsApp us to confirm the consultation time on holidays.",
 
   /* ---------- Google rating (updated by hand; not a live feed) ---------- */
   googleRating: "4.9",

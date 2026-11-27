@@ -121,9 +121,10 @@
   var treatments = {
     "Dermatology": ["Acne and acne scars", "Pigmentation and melasma", "Skin allergy and dermatitis", "Hair fall and scalp disorders", "Dandruff and scalp care", "Skin rejuvenation", "Other skin concern"],
     "Medical Cosmetology": ["Chemical peel", "HydraFacial", "Carbon laser peel", "Skin boosters", "Skin rejuvenation", "Other"],
-    "Aesthetic Medicine": ["Botox", "Dermal fillers", "Skin boosters", "HIFU", "RF skin tightening", "MNRF", "Exosome treatment", "Other"],
+    "Aesthetic Medicine": ["Anti-wrinkle injections (botulinum toxin)", "Dermal fillers", "Skin boosters", "HIFU", "RF skin tightening", "MNRF", "Exosome treatment", "Other"],
     "Laser Treatments": ["Laser hair removal", "Pico laser", "CO2 fractional laser", "Laser skin rejuvenation", "Tattoo removal", "Electrolysis", "Other"],
     "Hair Restoration": ["Hair loss consultation", "PRP", "GFC", "Scalp assessment", "Other"],
+    "Weight Management": ["Weight management consultation", "Body contouring", "Other"],
     "General Enquiry": ["General enquiry"]
   };
   var dep = $("#department"), tr = $("#treatment"), date = $("#date");
