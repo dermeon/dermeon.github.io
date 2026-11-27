@@ -20,8 +20,8 @@ window.DERMEON = {
 
   /* ---------- Opening hours ---------- */
   hours: [
-    ["Clinic", "9:30 AM – 7:00 PM"],
-    ["Doctor consultation", "10:00 AM – 7:00 PM"]
+    ["Clinic (all days, including Sunday)", "9:30 AM – 7:00 PM"],
+    ["Doctor consultation (all days)", "10:00 AM – 7:00 PM"]
   ],
   hoursNote: "Please call or WhatsApp us to confirm the consultation time on holidays.",
 
